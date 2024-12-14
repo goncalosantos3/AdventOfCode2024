@@ -2,3 +2,4 @@ secret.txt
 .vscode
 a.out
 __pycache__
+*.class
