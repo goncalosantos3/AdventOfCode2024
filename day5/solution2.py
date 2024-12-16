@@ -1,7 +1,7 @@
 import sys
 from functools import cmp_to_key
 
-import functions
+import day12.functions as functions
 
 if len(sys.argv) < 2:
     sys.exit("You need to specify the input file location!")
